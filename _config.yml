@@ -18,5 +18,8 @@ author:
   url:               https://github.com/george-kj
   # email:             georgekuttyjoyes@gmail.com
 
-# Custom vars
-version:             1.0.0
+
+# Github repo
+github:
+  repo:             https://github.com/george-kj/lanyon               
+  tag:              1.0.0
